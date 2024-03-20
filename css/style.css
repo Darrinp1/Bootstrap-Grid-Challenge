@@ -1,0 +1,19 @@
+#grid1 div[class^="col"] {
+    border: 1px solid black;
+}
+
+#box{
+    height: 486px;
+}
+
+.Rw1{
+    height: 130px;
+}
+
+.Rw2{
+    height: 300px;
+}
+
+.img{
+    height: 20px;
+}
